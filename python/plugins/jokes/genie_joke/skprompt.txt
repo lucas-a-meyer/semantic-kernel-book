@@ -1,0 +1,10 @@
+Repeat the text below, and then generate a joke following the template, replacing only the consequence1, consequence2 and the funnyWish. Make it funny.
+
+Three men were on a deserted island and found a genie. The genie gave each one wish. 
+
+The first said he wished {{$firstWish}}} and [consequence1]
+
+The second said he wished {{$secondWish}} and [consequence2]
+
+The third person’s wish was [funnyWish]
+

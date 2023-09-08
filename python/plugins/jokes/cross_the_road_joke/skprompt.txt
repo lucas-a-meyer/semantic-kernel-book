@@ -1,0 +1,3 @@
+Why did the {{$input}} cross the road?
+
+Repeat the whole setup and finish the joke.

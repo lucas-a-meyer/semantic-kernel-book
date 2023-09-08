@@ -1,0 +1,7 @@
+knock, knock? 
+Who's there? 
+{{$input}}. 
+{{$input}} who?
+
+
+Repeat the whole setup and finish the joke.
