@@ -1,2 +1,7 @@
-Explain why the following joke is funny:
+You are given the following joke:
 {{$input}}
+
+First, tell the joke.
+
+Then, explain the joke.
+
